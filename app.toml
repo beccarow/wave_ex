@@ -1,0 +1,10 @@
+[App]
+Name = "ai.h2o.wave.wave_ex"
+Version = "1.1.0"
+Title = "Spotify Recommendations"
+Description = "Sample app for song recommendations generated via a KNN approach"
+LongDescription="about.md"
+
+[Runtime]
+Module = "app"
+RoutingMode = "BASE_URL"
